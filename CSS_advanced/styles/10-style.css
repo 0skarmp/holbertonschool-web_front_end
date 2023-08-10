@@ -50,7 +50,7 @@ a{
 }
 
 .section-header{
-    text-align: var(--section-header-aling);
+    text-align: var(--section-header-align);
 
 }
 .section-tagline{
