@@ -18,7 +18,7 @@
     --line-height-base: 1.5;
     --line-height-big: 1.8;
     --section-header-align: center;
-    --section-tangline-transform: uppercase;
+    --section-tagline-transform: uppercase;
 }   
 html{
     scroll-behavior: smooth;
@@ -57,6 +57,6 @@ a{
 .section-tagline{
     color: var(--color-primary);
     font-family: var(--font-family-title);
-    text-transform: var(--section-tangline-transform);
+    text-transform: var(--section-tagline-transform);
     font-weight: var(--font-weight-bold);
 }
