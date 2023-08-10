@@ -209,6 +209,6 @@ ul.row{
     display: block;
 }
 
-social-link{
+.social-link{
     fill: var(--text-color);
 } 
