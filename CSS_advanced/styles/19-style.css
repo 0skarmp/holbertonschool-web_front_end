@@ -160,13 +160,9 @@ a:active{
     color: var(--nav-item-link-hover);
 }
 
-.footer {
-    padding: var(--footer-padding);
-}
-
 .ul.row{
     margin: 0;
-    padding: ?;
+    padding: 0;
     list-style: none;
 }
 
@@ -183,11 +179,11 @@ a:active{
 }
 
 .footer-copyright{
-    margin: none;
+    margin: 0;
     size: var(--font-size-small);
     color:var(--text-color);    
 }
 
-.footer.ul{
+.footer.ul {
     text-align: right;
 }
